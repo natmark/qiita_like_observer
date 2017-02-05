@@ -1,0 +1,2 @@
+# qiita_like_observer
+Qiitaのいいねを監視するChrome拡張アプリ
